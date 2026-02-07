@@ -28,3 +28,14 @@ Authentication is one of the most common attack surfaces in real-world applicati
 
 ## Status
 Project in progress.
+
+## Project Structure
+- test-cases/: Manual login test cases
+- bug-reports/: Sample bug report with security impact
+- security-review/: Authentication security risk analysis
+
+## Key Takeaways
+- Functional QA testing can uncover security risks early
+- Clear documentation is critical in both QA and cybersecurity roles
+- Authentication is a high-risk area that requires careful testing
+
